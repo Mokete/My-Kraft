@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "za.co.mykraft.twa",
+                     "sha256_cert_fingerprints": ["9F:B3:14:05:F5:47:4E:45:DD:E8:26:31:3A:B7:97:A9:3E:62:E7:EA:EF:8E:BE:7E:98:E0:0B:03:37:9E:03:F1"] }
+      }
+]
