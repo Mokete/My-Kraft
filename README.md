@@ -9,4 +9,4 @@ My Kraft is an online marketplace for Creatives to sell and promote their Africa
 ## The Blockchain Infrustructure
 The proposed infrastructure is open-source through [MIT](https://opensource.org/licenses/MIT) license and written in solidity, to view the infractructure please [CLICK HERE](https://github.com/rishav4101/eth-supplychain-dapp)
 
-![This is surely the winner of App of the Year!](/images/dapp.png "Best Storefront on the Planet")
+![This is surely the Winner!](/images/dapp.png "Best Storefront on the Planet")
