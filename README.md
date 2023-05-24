@@ -1,4 +1,4 @@
-![This is surely the winner of App of the Year!](/images/Art Page5.png "Best Storefront on the Planet")
+![This is surely the Winner!!!!](/https://github.com/Mokete/My-Kraft/blob/5ba5017a5f968ff503cd143c07286e117fcf9f84/images/Home%20PAge2.png "Best Storefront on the Planet")
 
 # MY KRAFT - APPLICATION
 This is the My Kraft Team's **ECOSYSTEM OF APPLICATIONS**
