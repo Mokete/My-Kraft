@@ -1,9 +1,9 @@
-![This is surely the Winner!!!!](/images/App-Icon-4.png "Best Storefront on the Planet")
+![This is surely the Winner!!!!](/images/Art-Page5.png "Best Storefront on the Planet")
 
 # MY KRAFT - APPLICATION
 This is the My Kraft Team's **ECOSYSTEM OF APPLICATIONS**
 
-## My 'S MISSION STATEMENT
+## My KRAFT'S MISSION STATEMENT
 To be the storefront for local **CREATIVE, ARTS AND CRAFTS SME** business, in order to acesss markets, innovate and become internationally competitive
 
 ## The Blockchain Infrustructure
